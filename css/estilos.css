@@ -1,14 +1,30 @@
-
-/*
-
-#fondo{
-    background-color: aqua;
-
-
-}*/
-
 body{
-    background-color: blue;
+    background-color: #ffffcc;
+    
+}
+h1{
+    text-align: center;
+}
+h3{
+    color: red;
+    text-align: center;
+    
+}
+h4{
+    color: red;
+    text-align: center;
 }
 
+.salmo{
+    color: red;
+    
+}
+span{
+    color: red;
+}
 
+code{
+    /*no se esta utilizando lo reemplace por span */
+    color: red;
+    font-family: Times New Roman;
+}
